@@ -34,7 +34,7 @@ public class Main {
                 .build();
 
         Request request = new Request.Builder()
-                .addHeader("X-Yandex-API-Key", "154d97f0-613d-4497-b9d9-02259cb4980b")
+                .addHeader("X-Yandex-API-Key", "b5374001-d0cc-488c-9b60-31206f90bb2c")
                 .url(url)
                 .get()
                 .build();
